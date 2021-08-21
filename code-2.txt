@@ -1,2 +1,2 @@
-"This is second file" 
-This is remote.
+"This is second file"
+This is remote [update form local].
