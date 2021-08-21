@@ -40,9 +40,10 @@
       }//end if
       */
 
-      //NEW RESIZE
+      //NEW RESIZES
       $w =  imageSX($src_img);
       $h = imageSY($src_img);
+    
       $fixw = $fixWdth;
       if($w < $h){
         $minfirst = max($fixw,(($h/$w)*$fixw));
